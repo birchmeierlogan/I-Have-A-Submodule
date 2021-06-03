@@ -1,0 +1,3 @@
+[submodule "I-will-be-a-submodule"]
+	path = I-will-be-a-submodule
+	url = https://github.com/birchmeierlogan/I-will-be-a-submodule.git
